@@ -26,9 +26,6 @@ Below you’ll find projects that showcase some of my skills and general backgro
  <a href="https://github.com/devanmcobb/chrome-extension">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=chrome-extension&theme=dracula" />
 </a>
-  <a href="https://github.com/devanmcobb/etch-a-sketch">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=etch-a-sketch&theme=dracula" />
-</a>
   <a href="https://github.com/devanmcobb/rock-paper-scissors">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=rock-paper-scissors&theme=dracula" />
 </a>
