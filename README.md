@@ -15,17 +15,12 @@
 and exploring ways to leverage new tech to solve real-world problems. <br /> 
   <br />
   <br />
-Below you’ll find projects that showcase some of my skills and general background in developing software.</p>
+Below you’ll find some of my favorite projects that showcase some of my skills and general background in developing software.</p>
 <br />
 <br />
 
 <h2 align="center">My Favorite Projects</h2>
 <br />
-
-<p align="center">
- <a href="https://github.com/devanmcobb/chrome-extension">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=chrome-extension&theme=dracula" />
-</a>
   <a href="https://github.com/devanmcobb/rock-paper-scissors">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=rock-paper-scissors&theme=dracula" />
 </a>
