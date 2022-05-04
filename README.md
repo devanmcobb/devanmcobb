@@ -22,11 +22,11 @@ Below you’ll find some of my favorite projects that showcase some of my skills
 <h2 align="center">My Favorite Projects</h2>
 <br />
 <p align="center"> 
- <a href="https://github.com/devanmcobb/rock-paper-scissors">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=rock-paper-scissors&theme=dracula" />
+ <a href="https://github.com/devanmcobb/airbnb">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=airbnb&theme=dracula" />
 </a>
-<a href="https://github.com/devanmcobb/blackjack-game">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=blackjack-game&theme=dracula" />
+<a href="https://github.com/devanmcobb/my-travel-journal">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=devanmcobb&repo=my-travel-journal&theme=dracula" />
 </a>
 </p>
 <br />
